@@ -1,4 +1,4 @@
-<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/001/859/590/datas/full_width.png">
+<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/001/859/590/datas/full_width.png"></img>
 <a href="https://losriosacm.github.io/WebDev_Workshop/index.html"><h2>Electric Charing Station Locator - Live Site</h2></a>
 
 <h3>City Hacks - Web Dev Workshop</h3>
