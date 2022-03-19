@@ -8,7 +8,7 @@
   <strong>Note: You may also encounter connecting to a REST API in a SWE assessment.</strong>
 </p>
   <h3>Topics Covered in Coding Presentation</h3>
-  <ul>
+ <ul>
     <li> 
       <h4>HTML</h4>
       <ul>
@@ -49,6 +49,9 @@
      </li>
      <li>
       <h4>Images of Teslas for days</h4>
+      ![5a7b62539c030](https://user-images.githubusercontent.com/64764518/159136930-1e9f7e8d-fdee-4b8e-85d4-176c5fb8c910.jpg)
      </li>      
-  </ul>    
-  
+  </ul>  
+ 
+ 
+ 
