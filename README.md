@@ -49,7 +49,6 @@
      </li>
      <li>
       <h4>Images of Teslas for days</h4>
-      ![5a7b62539c030](https://user-images.githubusercontent.com/64764518/159136930-1e9f7e8d-fdee-4b8e-85d4-176c5fb8c910.jpg)
      </li>      
   </ul>  
  
