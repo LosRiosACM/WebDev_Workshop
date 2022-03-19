@@ -48,7 +48,7 @@
       </ul>
      </li>
      <li>
-      <h4>Lots of Images of Teslas</h4>
+      <h4>Images of Teslas for days</h4>
      </li>      
   </ul>    
   
