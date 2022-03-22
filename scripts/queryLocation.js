@@ -82,3 +82,4 @@ let queryBtn = document.getElementById('charge-btn')
 
 // Add an event listener to the button and trigger the sendApiRequest function when clicked
 queryBtn.addEventListener('click', sendApiRequest);
+
