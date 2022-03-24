@@ -16,18 +16,29 @@
     </h1>
     <!--Heading with hyperlink tag nested inside-->
     <h2>
-      <a href="search.html">
-        Search
+      <a href="https://cityhacks2022.devpost.com/">
+        Join City Hacks
       </a>
     </h2>
+    <!--Div with a paragraph and image nested inside-->
+    <div>
+      <p>
+        I will get to the nearest charging station any minute now...
+      </p>
+      <img class="rounded"
+        src="https://media4.giphy.com/media/l4pTfBQTLOecArqSs/giphy.gif?cid=ecf05e47fh1y6s0yv03fjx31jbom80niy9aygmh18f557pg3&rid=giphy.gif&ct=g"
+        alt="Tesla Roadster searching for charging station">
+    </div>
     <!--Paragraph-->
     <p>
       Gas is expensive, here is the list of the nearest charging stations.
     </p>
-    <!--Embedding a Video-->
-    <iframe class="rounded" width="560" height="315" src="https://www.youtube.com/embed/Px9l4zMc6R0" title="YouTube video player"
-      frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen>
-    </iframe>
+    <!--Button with an ID of "charge-btn"-->
+    <button id="charge-btn">View Nearest Charging Stations</button>
+    <!--Unordered List-->
+    <ul id="charge-list">
+    </ul>
+    <!--Script tag to include the script file-->
+    <script src="./scripts/queryLocation.js"></script>
   </body>
 </html>
