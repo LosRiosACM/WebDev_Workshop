@@ -9,7 +9,7 @@
  <p>Slides Link</p>
  <img src="https://user-images.githubusercontent.com/64764518/159982871-375ab884-597b-4c99-bfe3-a647f2075c5c.png">
 </a>
-<a href="google.com">
+<a href="https://losriosacm.github.io/WebDev_Workshop/index.html">
   Electric Charging Station Locator - Live Site
 </a>
 <h3>Topics Covered in Coding Presentation</h3>
