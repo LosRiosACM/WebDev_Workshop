@@ -53,6 +53,10 @@
   </ul>  
  
  <h1> Workshop Slides</h1>
- ![webdevworksop](https://user-images.githubusercontent.com/64764518/159982871-375ab884-597b-4c99-bfe3-a647f2075c5c.png)
+ <a href="https://docs.google.com/presentation/d/1QbANQwK43gqrPJq_KPSvXgg_Bp5rmUSewywJ7hyw-K0/edit?usp=sharing">
+  <p>Link</p>
+   <img src="https://user-images.githubusercontent.com/64764518/159982871-375ab884-597b-4c99-bfe3-a647f2075c5c.png">
+ </a>
+
 
  
