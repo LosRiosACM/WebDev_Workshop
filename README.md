@@ -3,7 +3,8 @@
 <h3>City Hacks - Web Dev Workshop</h3>
 <p> 
   The City Hacks Web Dev Workshop was meant to cater to a variety of levels from those starting out to those that know a little bit about web dev. 
-  <strong>Note: You may also encounter connecting to a REST API in a SWE assessment.</strong>
+  <strong>Note: You may also encounter connecting to a REST API in a SWE assessment.</strong> 
+  In this workshop we send API requests to the <a href="https://openchargemap.org/site/develop/api#/operations/get-poi">Open Charge Map API</a> and return the 10 nearest electric vehicle charging stations. 
 </p>
 <a href="https://docs.google.com/presentation/d/1QbANQwK43gqrPJq_KPSvXgg_Bp5rmUSewywJ7hyw-K0/edit?usp=sharing">
  <p>Slides Link</p>
