@@ -58,3 +58,23 @@
      </li>      
   </ul>  
   
+<h1> Resources for further learning </h1>
+<ul>
+  <li><a href="https://www.theodinproject.com/">The Odin Project (Presenter's Favorite)</a>
+    <ul>
+      <li>Foundation</li>
+      <li>Full Stack Javascript Section</li>
+      <li>Full Stack Ruby - Databases Section</li>
+    </ul>
+  </li>
+  <li><a href="https://fullstackopen.com/en/"> Full Stack Open (Also Good)</a></li>
+  <li><a href="https://www.freecodecamp.org/learn">Free Code Camp</a>
+    <ul>
+      <li> Presenter Likes <a href="https://www.freecodecamp.org/learn/responsive-web-design/">Responsive Web Design Section</a></li>
+    </ul>
+  </li>
+ </ul>
+
+<h2>This README uses HTML as its markup language</h2>
+ <p>Try taking a peak at the README's Markup</p>
+  
