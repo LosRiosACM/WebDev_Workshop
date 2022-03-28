@@ -10,6 +10,8 @@
  <p>Slides Link</p>
  <img src="https://user-images.githubusercontent.com/64764518/159982871-375ab884-597b-4c99-bfe3-a647f2075c5c.png">
 </a>
+<h2>Workshop Recording</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NbxyhlcW5X0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="https://losriosacm.github.io/WebDev_Workshop/index.html">
   Electric Charging Station Locator - Live Site
 </a>
