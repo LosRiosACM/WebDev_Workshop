@@ -10,9 +10,10 @@
  <p>Slides Link</p>
  <img src="https://user-images.githubusercontent.com/64764518/159982871-375ab884-597b-4c99-bfe3-a647f2075c5c.png">
 </a>
-<h2>Workshop Recording</h2>
-<a href="https://youtu.be/NbxyhlcW5X0" title=City Hacks Web Dev Workshop">
-  <p align="center">
+
+<a href="https://youtu.be/NbxyhlcW5X0">
+  <p>
+  <p>Workshop Recording</p>
     <img width="75%" src="https://user-images.githubusercontent.com/64764518/159982871-375ab884-597b-4c99-bfe3-a647f2075c5c.png" alt="City Hacks Web Dev Workshop Video"/>
   </p>
 </a>
@@ -83,4 +84,8 @@
 
 <h2>This README uses HTML as its markup language</h2>
  <p>Try taking a peak at the README's Markup</p>
-  
+<h2>Presenters</h2>
+<ul>
+  <li><a href="https://www.linkedin.com/in/ishanmeher/">Ishan Meher</a></li>
+  <li><a href="https://www.linkedin.com/in/uliyaah-dionisio-246695233/">Uliyaah Dionisio</a></li>
+</ul>
